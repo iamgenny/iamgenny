@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamgenny
+- 👋 Hi, I’m @miracle
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding (HTML AND C#)
 - 💞️ I’m looking to collaborate on html
