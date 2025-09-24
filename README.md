@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @miracle
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding (HTML AND C#)
 - 💞️ I’m looking to collaborate on html
 - 📫 How to reach me genevievemiracle58@gmail.com
 - 😄 Pronouns: She
